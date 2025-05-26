@@ -13,7 +13,7 @@ A bomb calorimeter is used to measure the heat of combustion of a substance. The
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College kannauj U.P  
 <b> Email id|     <b> ravishrajput@reck.ac.in
-<b> Department | Chemical Science 
+<b> Department | Department of Applied Sciences and Humanities 
 
 ### Contributors List
 

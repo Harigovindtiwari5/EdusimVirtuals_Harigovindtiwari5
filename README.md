@@ -9,12 +9,11 @@
 ### About the Experimet 
 A bomb calorimeter is used to measure the heat of combustion of a substance. The sample is burned in a high-pressure oxygen-filled chamber, and the heat released is absorbed by surrounding water. The temperature change helps calculate the energy content of the sample.
 
-<b>Name of Developer |
-<b> Ravish Singh Rajput
+<b>Name of Developer |<b> Ravish Singh Rajput
 :--|:--|
-<b> Institute | <b> Rajkiya Engineering College kannauj  
+<b> Institute | <b> Rajkiya Engineering College kannauj U.P  
 <b> Email id|     <b> ravishrajput@reck.ac.in
-<b> Department | chemical Science 
+<b> Department | Chemical Science 
 
 ### Contributors List
 

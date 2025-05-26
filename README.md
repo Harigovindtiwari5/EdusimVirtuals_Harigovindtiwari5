@@ -19,5 +19,7 @@ A bomb calorimeter is used to measure the heat of combustion of a substance. The
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Hari Govind Tiwari | Student | Computer Science | Rajkiya Engineeing College Kannauj | .
-2 | DEvendra Singh  | Student | Computer Science  | Rajkiya Engineering College Kannnauj | .
+1 | Hari Govind Tiwari | Student | Computer Science | Rajkiya Engineeing College Kannauj | harigovindtiwari5@gmail.com|
+2 | Devendra Singh  | Student | Computer Science  | Rajkiya Engineering College Kannnauj | devendrasinghcse27@gmail.com|
+3| Khushi Gupta  | Student | Computer Science  | Rajkiya Engineering College Kannnauj |khushivarshney835@gmail.com|
+4| Aditya Singh  | Student | Computer Science  | Rajkiya Engineering College Kannnauj |adityasinghkv14@gmail.com|
